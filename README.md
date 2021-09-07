@@ -17,6 +17,8 @@ A Haar Cascade is based on “Haar Wavelets” which Wikipedia defines as: A seq
 
 
 
+
+
 ### Feature Extraction
 
 As I mentioned earlier, Haar Cascades use machine learning techniques in which a function is trained from a lot of positive and negative images. This process in the algorithm is feature extraction. In feature extraction, the algorithm uses training data to best identify features that it can consider a face.
